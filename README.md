@@ -45,21 +45,6 @@ By visiting the saved links inside different categories you can also update stat
 * Interview Pass
 * Offer Letter
 
-So you can **easily track all the applications and update there status**, You don't need to worry about the **application links and there status as well as study materials** as you can easily access all of them at one place.
-
-Currently I am at the same phase where I want everything at one place and easily see where I have applied and what was the result for that .
-
-Do add this extension to your chrome browser and try this at least once, feel free to provide **feedback, improvements and new ideas**.
-
-
-## Connect with me ~Rajesh Rathore
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-rathore-0501/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://linktr.ee/rajesh_rathore)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Rajesh946055)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/raj_rathod1313/?hl=en)
-
-
 ***Do star, fork and share the repo to show your support, it would help others too!***   <br>
  <br>
  Let me know your views or any changes or improvements or contribute to make better for others 
